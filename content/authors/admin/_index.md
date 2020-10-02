@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: Graduate Certificate in TEFL
-    institution: University of Central FLorida
+    institution: University of Central Florida
     year: 2020
   - course: BA in Art
-    institution: University of Central FLorida
+    institution: University of Central Florida
     year: 2019
   - course: High School Diploma
     institution: Cocoa Beach Jr./Sr. High School
