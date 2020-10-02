@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include digital humanities, digital media and programmable matter.
 
 interests:
-- ELectronic Literature
+- Electronic Literature
 - Media Studies
 - Visual Arts
 
