@@ -48,9 +48,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sooloosan
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/Ryu-Yamamoto017
@@ -70,4 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Here's where I am going to write things.
+My name is Ryu. I am a MA Interdisciplinary Studies student who studies Texts & Technology with TESOL at the University of Central Florida.
+ 
+Recently, I earned a graduate cetrificate in TEFL (Teaching English as a Foregin Language) from UCF. Thus, I am currently focusing on Texts & Technology for the completion of my MA degree in Interdisciplinary Studies.
