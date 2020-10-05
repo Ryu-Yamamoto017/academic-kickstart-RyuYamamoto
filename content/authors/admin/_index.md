@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-My name is Ryu. I am a MA Interdisciplinary Studies student who studies Texts & Technology with TESOL at the University of Central Florida.
+My name is Ryu. I am an MA Interdisciplinary Studies student who studies Texts & Technology with TESOL at the University of Central Florida.
  
 Recently, I earned a graduate cetrificate in TEFL (Teaching English as a Foregin Language) from UCF. Thus, I am currently focusing on Texts & Technology for the completion of my MA degree in Interdisciplinary Studies.
