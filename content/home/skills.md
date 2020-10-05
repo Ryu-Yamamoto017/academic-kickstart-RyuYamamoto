@@ -27,10 +27,10 @@ subtitle = ""
   description = "50%"  
   
 [[feature]]
-  icon = "markdown"
-  icon_pack = "fas"
-  name = "Markdown"
-  description = "10%"
+  icon = "instagram"
+  icon_pack = "fab"
+  name = "Instagram"
+  description = "90%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
