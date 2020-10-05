@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ryu Yamamoto
+title: Ryu Ryan Yamamoto
 
 # Username (this should match the folder name)
 authors:
