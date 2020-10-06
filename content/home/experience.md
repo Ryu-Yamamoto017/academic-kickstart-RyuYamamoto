@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "University of Central Florida"
   company_url = "https://global.ucf.edu/programs/intensive-english-program/"
   location = "Florida"
-  date_start = "Sept 2019"
+  date_start = "Sep 2019"
   date_end = "Mar 2020"
   description = """
   Responsibilities include:
@@ -39,14 +39,6 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "May 2019"
   date_end = "Aug 2019"
-  description = """
-  Worked as kitchen helper for one Summer at Hanamizuki. Gained insightful time-management skills and cultural knowledge in the Floridian service industry. Completed as a Summer Job before enrolling in Graduate School.
-  Responsibilities include:
-  
-  * Food Preparation
-  * Dish Washing
-  * Sanitation
-  * English-to-Japanese and Spanish-to-English Cross-cultural communication
-  """
+  description = """"""
 
 +++
