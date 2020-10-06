@@ -39,11 +39,12 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2019-05"
   date_end = "2019-08"
-  description = """Worked as kitchen helper for one Summer at Hanamizuki. Gained insightful time-management skills and cultural knowledge in the Floridian service industry. Completed as a Summer Job before enrolling in Graduate School."""
+  description = """Worked as kitchen helper for one Summer at Hanamizuki. Gained insightful time-management skills and cultural knowledge in the Floridian service industry. Completed as a Summer Job before enrolling in Graduate School.
   Responsibilities include:
   
   * Food Preparation
   * Dish Washing
   * Sanitation
+  """
 
 +++
