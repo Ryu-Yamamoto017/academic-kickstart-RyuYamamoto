@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "University of Central Florida"
   company_url = "https://global.ucf.edu/programs/intensive-english-program/"
   location = "Florida"
-  date_start = "2019-09-25"
-  date_end = "2020-03-03"
+  date_start = "Sept 2019"
+  date_end = "Mar 2020"
   description = """
   Responsibilities include:
   
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "Hanamizuki"
   company_url = "https://www.hanamizuki.us/index.html"
   location = "Florida"
-  date_start = "2019-05-24"
-  date_end = "2019-08"
+  date_start = "May 2019"
+  date_end = "Aug 2019"
   description = """
   Worked as kitchen helper for one Summer at Hanamizuki. Gained insightful time-management skills and cultural knowledge in the Floridian service industry. Completed as a Summer Job before enrolling in Graduate School.
   Responsibilities include:
