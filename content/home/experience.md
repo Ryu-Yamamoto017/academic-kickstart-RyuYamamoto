@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "University of Central Florida"
   company_url = "https://global.ucf.edu/programs/intensive-english-program/"
   location = "Florida"
-  date_start = "Sep 2019"
-  date_end = "Mar 2020"
+  date_start = "2017-01-01"
+  date_end = ""
   description = """
   Responsibilities include:
   
@@ -35,10 +35,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Kitchen Helper"
   company = "Hanamizuki"
-  company_url = "https://www.hanamizuki.us/index.html"
+  company_url = ""
   location = "Florida"
-  date_start = "May 2019"
-  date_end = "Aug 2019"
-  description = """"""
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electric engineering and researched semiconductor physics."""
 
 +++
