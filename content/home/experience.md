@@ -23,8 +23,9 @@ date_format = "Jan 2006"
   company_url = "https://global.ucf.edu/programs/intensive-english-program/"
   location = "Florida"
   date_start = "2019-09-25"
-  date_end = "2020-03-03"
-  description = """
+  date_end = "2020-05-01"
+  description = """ At UCF, I spent two semesters studying in the TEFL/TESOL portion of my MA in Interdisciplinary Studies. During these two semesters, I tutored undergraduate ESL students at UCF's English Language Institute and assisted a professor in carrying out two EAP courses. In my time assisting the professor, I held my first public lecture on February 25th, 2020.
+
   Responsibilities include:
   
   * Teaching
@@ -35,10 +36,17 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Kitchen Helper"
   company = "Hanamizuki"
-  company_url = ""
+  company_url = "https://www.hanamizuki.us/index.html"
   location = "Florida"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electric engineering and researched semiconductor physics."""
+  date_start = "2019-05-26"
+  date_end = "2019-08-12"
+  description = """This expeirience gave me insight to the both the food service industry and the tourism industry in Orlando, Florida. At Hanamizuki, I worked with employees that spoke predominantly in Japanese and Spanish. This gave me communication skills across multiple languages and ultimately catapulted me towards my work as an ESL tutor and guest lecturer at UCF.
+ 
+  Responsibilities include:
+  
+  * Japanese-to-English and English-to-Spanish Cross-cultural Communication
+  * Food Prep
+  * Dishwashing and Sanitation
+  """
 
 +++
