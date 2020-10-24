@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Cool Book"
+title: "Pinky's Adventure"
 authors: [Ryu Yamamoto]
 date: 2020-10-24T08:06:51-04:00
 doi: ""
