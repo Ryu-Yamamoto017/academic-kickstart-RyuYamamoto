@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "My Cool Book"
-authors: []
+authors: [Ryu Yamamoto]
 date: 2020-10-24T08:06:51-04:00
 doi: ""
 
@@ -16,13 +16,13 @@ publishDate: 2020-10-24T08:06:51-04:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Pinky's Adventure"
 publication_short: ""
 
-abstract: ""
+abstract: "A text-based adventure game modeled after Infocom's ZORK. Created for a graduate-level course in Interactive Media."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Play as Pinky in their adventures in the Omniverse. Use directional commands such as East, West, North, and South."
 
 tags: []
 categories: []
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://sooloo-roo.itch.io/pinkys-adventure
 url_video:
 
 # Featured image
