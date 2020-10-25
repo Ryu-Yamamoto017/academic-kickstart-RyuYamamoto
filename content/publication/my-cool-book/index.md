@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "A text-based adventure game modeled after Infocom's ZORK. Created for a graduate-level course in Interactive Media."
 
 # Summary. An optional shortened abstract.
-summary: "Play as Pinky in their adventures in the Omniverse. Use directional commands such as East, West, North, and South. Originally developed for a graduate school course named DIG 6551 Theory and Practice of Interactive Storytelling."
+summary: "Play as Pinky in their adventures in the Omniverse. Use directional commands such as East, West, North, and South. Originally developed for a UCF graduate school course named DIG 6551 Theory and Practice of Interactive Storytelling."
 
 tags: []
 categories: []
