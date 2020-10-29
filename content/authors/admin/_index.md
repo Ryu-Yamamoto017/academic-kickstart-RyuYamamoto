@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student of Texts & Technology
+role: Graduate Student of Interdisciplinary Studies
 
 # Organizations/Affiliations
 organizations:
