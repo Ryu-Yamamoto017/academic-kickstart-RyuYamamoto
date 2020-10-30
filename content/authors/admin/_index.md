@@ -23,7 +23,9 @@ bio: My research interests include digital humanities, digital media and program
 interests:
 - Electronic Literature
 - Media Studies
+- Games Studies
 - Visual Arts
+- Communication Studies
 
 education:
   courses:
