@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'ryamamoto017@knights.ucf.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ryamamoto017@knights.ucf.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sooloosan
