@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Talk and Demonstaration about Japanese Performance Art in Dr. Walter Gaudnek's Intermediate Painting Class at UCF"
+title: "The Converging Influence of Japanese Performance art in Martial Arts at Dr. Walter Gaudnek's Intermediate Painting Class at UCF"
 event: 
 event_url:
-location:
-address:
-  street:
-  city:
+location: Visual Arts Building Room 216
+address: 
+  street: Visual Arts Bldg 12400
+  city: Orlando
   region:
-  postcode:
-  country:
+  postcode: 32816
+  country: United States
 summary: ""
 abstract: "On October 29th, 2018, I gave a talk and performance of Japanese-Okinawan kata to Dr. Walter Gaudnek's ART 3504C Intermediate Painting class. Dr. Gaudnek requested me to give a talk and demonstration of kata after having a brief conversation with me about the significance of kata in Japanese culture. This was largely due to Dr. Gaudnek's class focus on teaching and preserving various international art movements throughout the last three centuries.
 
