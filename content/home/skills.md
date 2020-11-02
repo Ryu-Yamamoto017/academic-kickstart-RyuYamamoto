@@ -24,13 +24,13 @@ subtitle = ""
   icon = "git"
   icon_pack = "fab"
   name = "Git"
-  description = "50%"  
+  description = "90%"  
   
 [[feature]]
-  icon = "markdown"
+  icon = "instagram"
   icon_pack = "fab"
-  name = "Markdown"
-  description = "10%"
+  name = "Instagram"
+  description = "100%"
 
 # Uncomment to use emoji icons.
 # [[feature]]

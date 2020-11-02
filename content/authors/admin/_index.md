@@ -56,6 +56,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+- icon: instagram
+  icon_pack: fab
+  link: http://www.instagram.com/sooloosan/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
