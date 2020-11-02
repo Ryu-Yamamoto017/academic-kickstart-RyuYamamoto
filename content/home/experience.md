@@ -48,20 +48,6 @@ date_format = "Jan 2006"
   * Cross-cultural Communication
   """
 
-[[experience]]
-  title = "Kitchen Helper"
-  company = "Hanamizuki"
-  company_url = "https://www.hanamizuki.us/index.html"
-  location = "Florida"
-  date_start = "2019-05-26"
-  date_end = "2019-08-12"
-  description = """This expeirience gave me insight to the both the food service industry and the tourism industry in Orlando, Florida. At Hanamizuki, I worked with employees that spoke predominantly in Japanese and Spanish. This gave me communication skills across multiple languages and ultimately catapulted me towards my work as an ESL tutor and guest lecturer at UCF.
- 
-  Responsibilities include:
-  
-  * Japanese-to-English and English-to-Spanish Cross-cultural Communication
-  * Food Prep
-  * Dishwashing and Sanitation
-  """
+
 
 +++
