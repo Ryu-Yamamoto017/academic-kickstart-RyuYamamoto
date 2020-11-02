@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = ""
   date_end = ""
-  description = """ In the Spring Semester of 2020, I assisted a professor in carrying out two EAP courses. In my time assisting the professor, I held my first public lecture on February 25th, 2020 for an EAP 1850 (English for Academic Purposes I) undergraduate class. My lecture's subject was focused on sentence fragments and coordinating conjunctions. In addition, I designed a cooresponding homework assignment for the students to complete after my lecture. 
+  description = """ In the Spring Semester of 2020, I assisted a professor in carrying out two EAP courses. In my time assisting the professor, I held my first public lecture on February 25th, 2020 for an EAP 1850 (English for Academic Purposes I) undergraduate class. My lecture's subject was focused on sentence fragments and coordinating conjunctions. An accompanying powerpoint was also used for the lecture via screen projecting technology. In addition, I designed a cooresponding homework assignment for the students to complete after my lecture. 
 
   Responsibilities include:
   
