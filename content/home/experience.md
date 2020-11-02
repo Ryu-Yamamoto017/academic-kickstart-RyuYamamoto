@@ -28,8 +28,8 @@ date_format = "Jan 2006"
 
   Responsibilities include:
   
-  * Teaching 
-  * Cross-cultural Communication
+  * Providing feedback on assignments
+  * Cross-cultural Conversational Skills
   """
 [[experience]]
   title = "Guest Lecturer and Volunteering Assistant/Obeserver"
