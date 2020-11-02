@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://global.ucf.edu/programs/intensive-english-program/"
   location = "Florida"
   date_start = "2019-09-25"
-  date_end = "2019-12-01"
+  date_end = "2019-11-25"
   description = """ At UCF, I spent two semesters studying in the TEFL/TESOL portion of my MA in Interdisciplinary Studies. During the first semester, I tutored undergraduate ESL students at UCF's English Language Institute in their assignments and improving their conversational skills.
 
   Responsibilities include:
@@ -36,9 +36,10 @@ date_format = "Jan 2006"
   company = "University of Central Florida"
   company_url = "https://catalog.ucf.edu/preview_course.php?catoid=2&coid=3532&print"
   location = "Florida"
-  date_start = ""
-  date_end = ""
-  description = """ In the Spring Semester of 2020, I assisted a professor in carrying out two EAP courses. In my time assisting the professor, I held my first public lecture on February 25th, 2020 for an EAP 1850 (English for Academic Purposes I) undergraduate class. My lecture's subject was focused on sentence fragments and coordinating conjunctions. An accompanying powerpoint was also used for the lecture via screen projecting technology. In addition, I designed a cooresponding homework assignment for the students to complete after my lecture. 
+  date_start = "2020-02-25"
+  date_end = "2020-02-25"
+  description = """ In the Spring Semester of 2020, I assisted a professor in carrying out two EAP courses. In my time assisting the professor, I held my first public lecture on February 25th, 2020 for an EAP 1850 (English for Academic Purposes I) undergraduate class. Prior to the live lecture, several meetings with the profesor were conducted to discuss the class's strengths and weaknesses in order to find the subject most beneficial for the students' growtn. My lecture's subject was focused on sentence fragments and coordinating conjunctions. An accompanying powerpoint was also used for the lecture via screen projecting technology. In addition, I designed a cooresponding homework assignment for the students to complete after my lecture. 
+
 
   Responsibilities include:
   
