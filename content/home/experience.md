@@ -36,9 +36,9 @@ date_format = "Jan 2006"
   company = "University of Central Florida"
   company_url = "https://catalog.ucf.edu/preview_course.php?catoid=2&coid=3532&print"
   location = "Florida"
-  date_start = "2020-02-25"
-  date_end = "2020-02-25"
-  description = """ In the second semester of my time studying TESOL/TEFL at UCF, I assisted a professor in carrying out two EAP courses. In my time assisting the professor, I held my first public lecture on February 25th, 2020 for an EAP 1850 (English for Academic Purposes I) undergraduate class. My lecture's subject was focused on sentence fragments and coordinating conjunctions. In addition, I designed a cooresponding homework assignment for the students to complete after my lecture. 
+  date_start = ""
+  date_end = ""
+  description = """ In the Spring Semester of 2020, I assisted a professor in carrying out two EAP courses. In my time assisting the professor, I held my first public lecture on February 25th, 2020 for an EAP 1850 (English for Academic Purposes I) undergraduate class. My lecture's subject was focused on sentence fragments and coordinating conjunctions. In addition, I designed a cooresponding homework assignment for the students to complete after my lecture. 
 
   Responsibilities include:
   
