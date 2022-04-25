@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student of Interdisciplinary Studies
+role: Doctoral Student of Texts & Technology
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include digital humanities, digital media and programmable matter.
+bio: My research interests include digital humanities, digital media, and programmable matter.
 
 interests:
 - Electronic Literature
@@ -29,15 +29,15 @@ interests:
 
 education:
   courses:
+  - course: Master of Arts in Interdisciplinary Studies
+    institution: University of Central Florida
+    year: 2021
   - course: Graduate Certificate in TEFL
     institution: University of Central Florida
     year: 2020
-  - course: BA in Art
+  - course: Bachelor of Arts in Art
     institution: University of Central Florida
     year: 2019
-  - course: High School Diploma
-    institution: Cocoa Beach Jr./Sr. High School
-    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,9 +47,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ryamamoto017@knights.ucf.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/sooloosan
 - icon: github
   icon_pack: fab
   link: https://github.com/Ryu-Yamamoto017
@@ -58,7 +55,7 @@ social:
   link: files/cv.pdf
 - icon: instagram
   icon_pack: fab
-  link: http://www.instagram.com/sooloosan/
+  link: http://www.instagram.com/ryuryan_y/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-My name is Ryu. I am an MA Interdisciplinary Studies student who studies Texts & Technology with TESOL at the University of Central Florida.
+My name is Ryu. I am a Doctoral Student who studies Texts & Technology with at the University of Central Florida.
  
-Recently, I earned a graduate cetrificate in TEFL (Teaching English as a Foregin Language) from UCF. Thus, I am currently focusing on Texts & Technology for the completion of my MA degree in Interdisciplinary Studies.
+Recently, I earned a Master of Arts in Interdiscplinary Studies. In this degree's curriculum, I had two concentrations in TEFL (Teaching English as a Foreign Language) and Texts & Technology.
