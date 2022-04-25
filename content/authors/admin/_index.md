@@ -38,6 +38,10 @@ education:
   - course: Bachelor of Arts in Art
     institution: University of Central Florida
     year: 2019
+<<<<<<< HEAD
+=======
+
+>>>>>>> cdb2aa82e5457a4b54794f8eefd04d7652c89f02
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,6 +71,12 @@ user_groups:
 - Visitors
 ---
 
+<<<<<<< HEAD
 My name is Ryu. I am a Doctoral Student who studies Texts & Technology with at the University of Central Florida.
  
 Recently, I earned a Master of Arts in Interdiscplinary Studies. In this degree's curriculum, I had two concentrations in TEFL (Teaching English as a Foreign Language) and Texts & Technology.
+=======
+My name is Ryu. I am a Doctoral Student who studies Texts & Technology  at the University of Central Florida.
+ 
+Recently, I earned a Master of Arts in Interdisciplinary Studies. In this degree's curriculum, I had two concentrations in TEFL (Teaching English as a Foreign Language) and Texts & Technology.
+>>>>>>> cdb2aa82e5457a4b54794f8eefd04d7652c89f02
