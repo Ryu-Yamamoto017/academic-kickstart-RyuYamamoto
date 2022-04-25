@@ -70,4 +70,4 @@ user_groups:
 
 My name is Ryu. I am a Doctoral Student who studies Texts & Technology  at the University of Central Florida.
  
-Recently, I earned a Master of Arts in Interdisciplinary Studies. In this degree's curriculum I had two concentrations in TEFL (Teaching English as a Foregin Language) and Texts & Technology.
+Recently, I earned a Master of Arts in Interdisciplinary Studies. In this degree's curriculum, I had two concentrations in TEFL (Teaching English as a Foregin Language) and Texts & Technology.
