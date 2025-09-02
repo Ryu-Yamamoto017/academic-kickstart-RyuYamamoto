@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral Student of Texts & Technology
+role: Doctor of Philosophy in of Texts & Technology
 
 # Organizations/Affiliations
 organizations:
@@ -18,17 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include digital humanities, digital media, and programmable matter.
+bio: My research interests include digital humanities, digital media, and games studies.
 
 interests:
 - Electronic Literature
 - Media Studies
 - Games Studies
+- Games History
 - Visual Arts
 - Communication Studies
 
 education:
   courses:
+  - course: Ph. D. in Texts & Technology
+    institution: University of Central Florida
+    year: 2025
   - course: Master of Arts in Interdisciplinary Studies
     institution: University of Central Florida
     year: 2021
@@ -50,16 +54,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ryamamoto017@knights.ucf.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ryu.yamamoto@ucf.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/Ryu-Yamamoto017
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
-- icon: instagram
-  icon_pack: fab
-  link: http://www.instagram.com/ryuryan_y/
+#- icon: instagram
+#  icon_pack: fab
+#  link: http://www.instagram.com/ryuryan_y/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -76,7 +80,6 @@ My name is Ryu. I am a Doctoral Student who studies Texts & Technology with at t
  
 Recently, I earned a Master of Arts in Interdiscplinary Studies. In this degree's curriculum, I had two concentrations in TEFL (Teaching English as a Foreign Language) and Texts & Technology.
 =======
-My name is Ryu. I am a Doctoral Student who studies Texts & Technology  at the University of Central Florida.
- 
-Recently, I earned a Master of Arts in Interdisciplinary Studies. In this degree's curriculum, I had two concentrations in TEFL (Teaching English as a Foreign Language) and Texts & Technology.
+My name is Ryu. I am a Doctor of Philosophy in Texts & Technology from the University of Central Florida.
+
 >>>>>>> cdb2aa82e5457a4b54794f8eefd04d7652c89f02
