@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral Student of Texts & Technology
+role: Doctor of Philosophy in Texts & Technology
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include digital humanities, digital media, and programmable matter.
+bio: My research interests include digital humanities, digital media, and games studies.
 
 interests:
 - Electronic Literature
@@ -29,9 +29,9 @@ interests:
 
 education:
   courses:
-  - course: Master of Arts in Interdisciplinary Studies
+  - course: Doctor of Philosophy in Texts & Technology
     institution: University of Central Florida
-    year: 2021
+    year: 2025
   - course: Graduate Certificate in TEFL
     institution: University of Central Florida
     year: 2020
@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-My name is Ryu. I am a Doctoral Student who studies Texts & Technology at the University of Central Florida.
-Recently, I earned a Master of Arts in Interdiscplinary Studies. In this degree's curriculum, I had two concentrations in TEFL (Teaching English as a Foreign Language) and Texts & Technology. From my studies in my Master's coursework, I expanded my studies into my work for the Texts & Technology PhD Program.
+My name is Ryu. I recently graduated from the Texts & Technology Ph. D. Program at the University of Central Florida.
+In 2021, I earned a Master of Arts in Interdiscplinary Studies. In this degree's curriculum, I had two concentrations in TEFL (Teaching English as a Foreign Language) and Texts & Technology. From my studies in my Master's coursework, I expanded my studies into my work for the Texts & Technology PhD Program.
