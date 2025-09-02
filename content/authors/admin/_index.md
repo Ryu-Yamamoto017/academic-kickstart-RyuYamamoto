@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctor of Philosophy in Texts & Technology
+role: Doctoral Student of Texts & Technology
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,17 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include digital humanities, digital media, and games studies.
+bio: My research interests include digital humanities, digital media, and programmable matter.
 
 interests:
 - Electronic Literature
 - Media Studies
 - Games Studies
-- Games History
 - Visual Arts
 - Communication Studies
 
 education:
   courses:
-    - course: Doctor of Philosophy in Texts & Technology
-    institution: University of Central Florida
-    year: 2025
   - course: Master of Arts in Interdisciplinary Studies
     institution: University of Central Florida
     year: 2021
@@ -57,9 +53,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
-#- icon: instagram
-#  icon_pack: fab
-#  link: http://www.instagram.com/ryuryan_y/
+- icon: instagram
+  icon_pack: fab
+  link: http://www.instagram.com/ryuryan_y/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +67,5 @@ user_groups:
 - Visitors
 ---
 
-My name is Ryu. I am a graduate of UCF's Texts & Technology Ph. D. Program. I have also researched with UCF's Center for Humanities and Digital Research.
+My name is Ryu. I am a Doctoral Student who studies Texts & Technology at the University of Central Florida.
+Recently, I earned a Master of Arts in Interdiscplinary Studies. In this degree's curriculum, I had two concentrations in TEFL (Teaching English as a Foreign Language) and Texts & Technology. From my studies in my Master's coursework, I expanded my studies into my work for the Texts & Technology PhD Program.
