@@ -32,7 +32,7 @@ education:
   courses:
   - course: Master of Arts in Interdisciplinary Studies
     institution: University of Central Florida
-    year: 2025
+    year: 2021
   - course: Graduate Certificate in TEFL
     institution: University of Central Florida
     year: 2020
@@ -54,9 +54,7 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
-#- icon: instagram
-#  icon_pack: fab
-#  link: http://www.instagram.com/ryuryan_y/
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
