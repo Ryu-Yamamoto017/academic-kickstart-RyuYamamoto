@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-  - course: Ph. D. in Texts & Technology
+  - course: Doctor of Philosophy in Texts & Technology
     institution: University of Central Florida
     year: 2025
   - course: Master of Arts in Interdisciplinary Studies
@@ -42,10 +42,6 @@ education:
   - course: Bachelor of Arts in Art
     institution: University of Central Florida
     year: 2019
-<<<<<<< HEAD
-=======
-
->>>>>>> cdb2aa82e5457a4b54794f8eefd04d7652c89f02
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -75,11 +71,14 @@ user_groups:
 - Visitors
 ---
 
-<<<<<<< HEAD
-My name is Ryu. I am a Doctoral Student who studies Texts & Technology with at the University of Central Florida.
+My name is Ryu. I am a Doctoral Student who studies Texts & Technology at the University of Central Florida.
  
+<<<<<<< HEAD
 Recently, I earned a Master of Arts in Interdiscplinary Studies. In this degree's curriculum, I had two concentrations in TEFL (Teaching English as a Foreign Language) and Texts & Technology.
 =======
 My name is Ryu. I am a Doctor of Philosophy in Texts & Technology from the University of Central Florida.
 
 >>>>>>> cdb2aa82e5457a4b54794f8eefd04d7652c89f02
+=======
+Recently, I earned a Master of Arts in Interdiscplinary Studies. In this degree's curriculum, I had two concentrations in TEFL (Teaching English as a Foreign Language) and Texts & Technology. From my studies in my Master's coursework, I expanded my studies into my work for the Texts & Technology PhD Program.
+>>>>>>> c705988fd55b22f25abf439d3900d95bd499f4ca
