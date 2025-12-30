@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2019-09-25"
   date_end = "2019-11-25"
-  description = """ At UCF, I spent two semesters studying in the TEFL/TESOL portion of my MA in Interdisciplinary Studies. During the first semester, I tutored undergraduate ESL students at UCF's English Language Institute in their assignments and improving their conversational skills.
+  description = """ At the University of Central Florida, I spent two semesters studying in the TEFL/TESOL portion of my MA in Interdisciplinary Studies. During the first semester, I tutored undergraduate ESL students at UCF's English Language Institute in their assignments and improving their conversational skills.
 
   Responsibilities include:
   
