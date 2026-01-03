@@ -50,9 +50,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Ryu-Yamamoto017
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

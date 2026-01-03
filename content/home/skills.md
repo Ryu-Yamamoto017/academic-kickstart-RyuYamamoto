@@ -26,11 +26,7 @@ subtitle = ""
   name = "Git"
   description = "90%"  
   
-[[feature]]
-  icon = "instagram"
-  icon_pack = "fab"
-  name = "Instagram"
-  description = "100%"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
