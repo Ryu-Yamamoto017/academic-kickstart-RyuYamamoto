@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ryu Ryan Yamamoto
+title: Ryu Yamamoto
 
 # Username (this should match the folder name)
 authors:
@@ -22,7 +22,6 @@ bio: My research interests include digital humanities, digital media, and games 
 
 interests:
 - Electronic Literature
-- Media Studies
 - Games Studies
 - Games History
 - Visual Arts
