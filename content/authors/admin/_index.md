@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ryu Yamamoto
+title: Roo (Ryu) Yamamoto
 
 # Username (this should match the folder name)
 authors:
@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: Doctor of Philosophy in Texts & Technology
+    institution: University of Central Florida
+    year: 2025
   - course: Master of Arts in Interdisciplinary Studies
     institution: University of Central Florida
     year: 2021
