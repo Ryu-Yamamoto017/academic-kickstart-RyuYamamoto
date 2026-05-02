@@ -70,4 +70,4 @@ user_groups:
 
 My name is Ryu. I am a Doctor of Texts & Technology from the University of Central Florida.
  
-Recently, I earned a Master of Arts in Interdiscplinary Studies. In this degree's curriculum, I had two concentrations in TEFL (Teaching English as a Foreign Language) and Texts & Technology. From my studies in my Master's coursework, I expanded my studies into my work for the Texts & Technology PhD Program.
+In 2021, I earned a Master of Arts in Interdiscplinary Studies. In this degree's curriculum, I had two concentrations in TEFL (Teaching English as a Foreign Language) and Texts & Technology. From my studies in my Master's coursework, I expanded my studies into my work for the Texts & Technology PhD Program.
